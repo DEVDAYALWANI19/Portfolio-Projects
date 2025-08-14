@@ -59,7 +59,7 @@ The SQL script (`netflix.sql`) answers 15 business questions, including:
 ---
 ## Dashboard Preview
 
-![Netflix Dashboard Screenshot](https://github.com/DEVDAYALWANI19/Portfolio-Projects/blob/9a24e871303e192def0088657107c26cb2a78615/netflix%20project/Screenshot%202025-08-14%20110419.png)
+![Netflix Dashboard Screenshot](https://github.com/DEVDAYALWANI19/Portfolio-Projects/blob/760b735cbcc42a7eb7f4f2a3d9bb6eed472da133/netflix%20project/Screenshot%202025-08-14%20113657.png)
 ##  Power BI Dashboard Features
 The Power BI dashboard visualizes key insights from the SQL queries:
 - **Movies vs TV Shows Distribution**  
