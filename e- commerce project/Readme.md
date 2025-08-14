@@ -40,16 +40,25 @@ o	**Country** – Where the customer is from
 
 --
 ## 1. Data Cleaning (Python)
+
 •	Handled missing values (dropped nulls)
+
 •	Removed duplicates
+
 •	Fixed data types (converted descriptions to strings, dates to datetime)
+
 •	Added calculated columns:
+
 o	Year/Month/Day extraction from dates
+
 o	Total price (quantity × price)
+
 •	Standardized column names to lowercase
+
 
 --
 ## 2. Database Integration
+
 •	Processed data loaded into PostgreSQL database (`retails_db`)
 
 •	 Table name: (`retails`)
