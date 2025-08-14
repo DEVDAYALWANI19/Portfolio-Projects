@@ -1,5 +1,7 @@
 # Netflix Content Analysis – SQL + Power BI Dashboard
 
+(https://github.com/DEVDAYALWANI19/Portfolio-Projects/blob/c18fa63e3fe445da3d92e762019d968bdb57aaff/netflix%20project/BrandAssets_Logos_01-Wordmark.jpg)
+
 ## Project Overview
 This project analyzes the Netflix dataset to uncover trends, patterns, and insights about its content library.  
 It uses **PostgreSQL** for data analysis and **Power BI** for creating an interactive dashboard.  
@@ -7,7 +9,7 @@ The dataset was sourced from Kaggle and loaded into PostgreSQL for SQL querying,
 
 ---
 
-##Dataset Information
+## Dataset Information
 # The dataset was downloaded from Kaggle using the Kaggle API:
 
  [Netflix Movies and TV Shows Dataset](https://www.kaggle.com/shivamb/netflix-shows)
@@ -57,7 +59,7 @@ The SQL script (`netflix.sql`) answers 15 business questions, including:
 ---
 ## Dashboard Preview
 
-![Netflix Dashboard Screenshot](ADD_YOUR_IMAGE_LINK_HERE)
+![Netflix Dashboard Screenshot]()
 ##  Power BI Dashboard Features
 The Power BI dashboard visualizes key insights from the SQL queries:
 - **Movies vs TV Shows Distribution**  
