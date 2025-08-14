@@ -2,8 +2,10 @@
 
 ![e-commerce logo]( https://github.com/DEVDAYALWANI19/Portfolio-Projects/blob/114303c376c4d291ec87e5917acf488449eb456f/e-%20commerce%20project/isometric-laptop-with-shopping-cart-keypad_1262-16544.avif)
 
+---
 ## Project Overview
 This project analyzes an e-commerce retail dataset to uncover insights into sales trends, customer behavior, and product performance. The analysis is implemented through a Python data pipeline and SQL views designed for Power BI dashboarding.
+
 ---
 
 ## Dataset Information
@@ -36,7 +38,7 @@ o	**Country** – Where the customer is from
 
 ## python – Data Cleaning And Preprocessing
 
-
+--
 ## 1. Data Cleaning (Python)
 •	Handled missing values (dropped nulls)
 •	Removed duplicates
@@ -45,9 +47,13 @@ o	**Country** – Where the customer is from
 o	Year/Month/Day extraction from dates
 o	Total price (quantity × price)
 •	Standardized column names to lowercase
+
+--
 ## 2. Database Integration
-•	Processed data loaded into PostgreSQL database (retails_db)
-•	Table name: retails
+•	Processed data loaded into PostgreSQL database (`retails_db`)
+
+•	 Table name: (`retails`)
+
 ---
 ## SQL Analysis View – 
 The project includes 14 analytical views designed for Power BI dashboarding:
@@ -71,17 +77,6 @@ The project includes 14 analytical views designed for Power BI dashboarding:
 ## Dashboard Preview
 
 ![e-commerce Dashboard Screenshot]( https://github.com/DEVDAYALWANI19/Portfolio-Projects/blob/114303c376c4d291ec87e5917acf488449eb456f/e-%20commerce%20project/Screenshot%202025-08-14%20120509.png)
-
----
-
-## Data Processing Pipeline
-
-```mermaid
-graph TD
-    A[Raw Excel Data] --> B[Python Cleaning]
-    B --> C[PostgreSQL Database]
-    C --> D[SQL Analytical Views]
-    D --> E[Power BI Dashboard]
 
 ---
 
